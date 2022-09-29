@@ -1,10 +1,12 @@
 {
   "files": {
-    "main.css": "/static/css/main.4ca8687d.css",
-    "main.js": "/static/js/main.534fd609.js",
+    "main.css": "/static/css/main.e9a01fc6.css",
+    "main.js": "/static/js/main.4cd6ecfe.js",
     "static/js/787.633816a4.chunk.js": "/static/js/787.633816a4.chunk.js",
     "static/media/player.png": "/static/media/player.c326e8a8db7699f6d229.png",
+    "static/media/LOGO_HEAD_RED_WOBBLEBUG.svg": "/static/media/LOGO_HEAD_RED_WOBBLEBUG.69c617a567bc2f74aeed71903cd79f1f.svg",
     "static/media/Silom.ttf": "/static/media/Silom.5c7f43f547e62fd71290.ttf",
+    "static/media/LOGO_HEAD_BLACK.svg": "/static/media/LOGO_HEAD_BLACK.737bdf6f696842977d5e657e39ce11b8.svg",
     "static/media/icon_10.svg": "/static/media/icon_10.be9fb614969e06e8b6a8e7e0c027619b.svg",
     "static/media/nft1.png": "/static/media/nft1.456a8601e0b1c46d56d8.png",
     "static/media/nft22.png": "/static/media/nft22.12edcfa7a7fb4ecf9971.png",
@@ -20,12 +22,12 @@
     "static/media/Arrow20.svg": "/static/media/Arrow20.656e08fb71d919ba9d3a67d703d545fa.svg",
     "static/media/instagram.svg": "/static/media/instagram.f12e0bd1a2dac75c9762a2a929b3a3a1.svg",
     "index.html": "/index.html",
-    "main.4ca8687d.css.map": "/static/css/main.4ca8687d.css.map",
-    "main.534fd609.js.map": "/static/js/main.534fd609.js.map",
+    "main.e9a01fc6.css.map": "/static/css/main.e9a01fc6.css.map",
+    "main.4cd6ecfe.js.map": "/static/js/main.4cd6ecfe.js.map",
     "787.633816a4.chunk.js.map": "/static/js/787.633816a4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4ca8687d.css",
-    "static/js/main.534fd609.js"
+    "static/css/main.e9a01fc6.css",
+    "static/js/main.4cd6ecfe.js"
   ]
 }
