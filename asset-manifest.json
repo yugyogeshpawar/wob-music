@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.103a83fd.css",
-    "main.js": "/static/js/main.55ebe93e.js",
+    "main.css": "/static/css/main.d51130f6.css",
+    "main.js": "/static/js/main.5ac8faf5.js",
     "static/js/787.6a26ec7a.chunk.js": "/static/js/787.6a26ec7a.chunk.js",
     "static/media/BABYWOBS_IN_THE_STUDIO_1.png": "/static/media/BABYWOBS_IN_THE_STUDIO_1.69b069beccc37c09e5e8.png",
     "static/media/player.png": "/static/media/player.c326e8a8db7699f6d229.png",
@@ -30,12 +30,12 @@
     "static/media/Arrow_27.svg": "/static/media/Arrow_27.6eabffb167f96386625f3c1ed3071898.svg",
     "static/media/Arrow_32.svg": "/static/media/Arrow_32.481c86d37a5d2e4ff2f0896d1151c752.svg",
     "static/media/plus.svg": "/static/media/plus.53195895cda27a7cf946a605530e89b7.svg",
-    "main.103a83fd.css.map": "/static/css/main.103a83fd.css.map",
-    "main.55ebe93e.js.map": "/static/js/main.55ebe93e.js.map",
+    "main.d51130f6.css.map": "/static/css/main.d51130f6.css.map",
+    "main.5ac8faf5.js.map": "/static/js/main.5ac8faf5.js.map",
     "787.6a26ec7a.chunk.js.map": "/static/js/787.6a26ec7a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.103a83fd.css",
-    "static/js/main.55ebe93e.js"
+    "static/css/main.d51130f6.css",
+    "static/js/main.5ac8faf5.js"
   ]
 }
