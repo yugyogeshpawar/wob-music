@@ -1,15 +1,12 @@
 {
   "files": {
-    "main.css": "/static/css/main.23cfad40.css",
-    "main.js": "/static/js/main.2f13d0a1.js",
+    "main.css": "/static/css/main.48751b94.css",
+    "main.js": "/static/js/main.68bc8aee.js",
     "static/js/787.6a26ec7a.chunk.js": "/static/js/787.6a26ec7a.chunk.js",
     "static/media/BABYWOBS_IN_THE_STUDIO_1.png": "/static/media/BABYWOBS_IN_THE_STUDIO_1.69b069beccc37c09e5e8.png",
-    "static/media/LOGO_HEAD_WHITE_WOBBLEBUG_2.svg": "/static/media/LOGO_HEAD_WHITE_WOBBLEBUG_2.ff7356fe26ebe1f9ef0628b5ade57b07.svg",
     "static/media/player.png": "/static/media/player.c326e8a8db7699f6d229.png",
     "static/media/WOB_PROFILE_Spotify_Final_1.png": "/static/media/WOB_PROFILE_Spotify_Final_1.3c6a8eaa26fae50b18c5.png",
-    "static/media/LOGO_HEAD_RED_WOBBLEBUG.svg": "/static/media/LOGO_HEAD_RED_WOBBLEBUG.69c617a567bc2f74aeed71903cd79f1f.svg",
     "static/media/Silom.ttf": "/static/media/Silom.5c7f43f547e62fd71290.ttf",
-    "static/media/LOGO_HEAD_BLACK.svg": "/static/media/LOGO_HEAD_BLACK.737bdf6f696842977d5e657e39ce11b8.svg",
     "static/media/ScreenShot3.png": "/static/media/ScreenShot3.6d7fc24b5363e9a6b6c5.png",
     "static/media/icon_10.svg": "/static/media/icon_10.be9fb614969e06e8b6a8e7e0c027619b.svg",
     "static/media/nft1.png": "/static/media/nft1.456a8601e0b1c46d56d8.png",
@@ -18,6 +15,7 @@
     "static/media/nft5.png": "/static/media/nft5.d6744fd5150bc136693f.png",
     "static/media/MonumentExtended-Regular.otf": "/static/media/MonumentExtended-Regular.db74f7a563ec017311bc.otf",
     "static/media/Music_image.svg": "/static/media/Music_image.ba875ceffd341dad07aabdda901a8e91.svg",
+    "static/media/LOGO_HEAD_WHITE_WOBBLEBUG_2.png": "/static/media/LOGO_HEAD_WHITE_WOBBLEBUG_2.d2f5300f72ebb58407a7.png",
     "static/media/nft3.png": "/static/media/nft3.d031d5702b55d6ba7699.png",
     "static/media/wobtoken.png": "/static/media/wobtoken.0a63db3af6cced87d2e4.png",
     "static/media/Logomark_Blue.svg": "/static/media/Logomark_Blue.85ccc6d5e05ae1ad499e156e9421c346.svg",
@@ -35,12 +33,12 @@
     "static/media/Arrow_27.svg": "/static/media/Arrow_27.6eabffb167f96386625f3c1ed3071898.svg",
     "static/media/Arrow_32.svg": "/static/media/Arrow_32.481c86d37a5d2e4ff2f0896d1151c752.svg",
     "static/media/plus.svg": "/static/media/plus.53195895cda27a7cf946a605530e89b7.svg",
-    "main.23cfad40.css.map": "/static/css/main.23cfad40.css.map",
-    "main.2f13d0a1.js.map": "/static/js/main.2f13d0a1.js.map",
+    "main.48751b94.css.map": "/static/css/main.48751b94.css.map",
+    "main.68bc8aee.js.map": "/static/js/main.68bc8aee.js.map",
     "787.6a26ec7a.chunk.js.map": "/static/js/787.6a26ec7a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.23cfad40.css",
-    "static/js/main.2f13d0a1.js"
+    "static/css/main.48751b94.css",
+    "static/js/main.68bc8aee.js"
   ]
 }
